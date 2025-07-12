@@ -1,1 +1,1 @@
-# amex-pred
+# decision-science-pred
